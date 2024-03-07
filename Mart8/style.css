@@ -92,7 +92,9 @@ body {
         height: 100%;
         margin: 0;
         font-family: 'Caveat', cursive;
-        padding-left: 50px;
+        display: flex;
+        justify-content: center;
+        /* padding-left: 50px; */
     }
 
     body {
